@@ -23,7 +23,8 @@ Resigned one's job since January 2022.
 - HTML
 - Linux
 - GIT
-- ### Code Example
+- ### 
+Code Example
 ---
 ```
 function accum(s) {
