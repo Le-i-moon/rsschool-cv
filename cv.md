@@ -10,9 +10,9 @@
 -  **Discord:** *[Roman (@Le-i-moon)](https://discord.com/channels/516715744646660106/747714817845887036)*
 ### About Me
 ---
->Education - BNTU (2008 - 2013) technical specialty
+Education - BNTU (2008 - 2013) technical specialty
 English - A2 
-Work experience - Engineering and technical specialist with 8 years of experience (design engineer: AutoCad, SolidWorks)
+Work experience - Engineering and technical specialist with 8 years of experience (design engineer: AutoCad, SolidWorks).
 Resigned one's job since January 2022.
 ### Skills
 ---
